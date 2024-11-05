@@ -25,18 +25,18 @@
             }
           },
           {
-            "id": "560b70d88efec9d6",
+            "id": "6518f4a0a7c9e4c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Quality/Slideshow/2. Test Driven Development (TDD).md",
+                "file": "Code Quality/Slideshow/3. Documentations.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Test Driven Development (TDD)"
+              "title": "3. Documentations"
             }
           }
         ],
@@ -158,10 +158,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Quality/Slideshow/2. Test Driven Development (TDD).md"
+                "file": "Code Quality/Slideshow/3. Documentations.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Test Driven Development (TDD)"
+              "title": "Outline of 3. Documentations"
             }
           },
           {
@@ -254,12 +254,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b3221788beb032bd",
+  "floating": {
+    "id": "68dd1b7f4899db3c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "84a7af884b1b9216",
+        "type": "window",
+        "children": [
+          {
+            "id": "1aea27a2d97c72d0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "43a0ef282f284abf",
+                "type": "leaf",
+                "state": {
+                  "type": "reveal-preview-view",
+                  "state": {},
+                  "icon": "slides",
+                  "title": "Slide preview"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -832,
+        "y": -30,
+        "width": 601,
+        "height": 772,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "43a0ef282f284abf",
   "lastOpenFiles": [
-    "CV de compétences.xlsx",
-    "Code Quality/Slideshow/1. Understanding and Writing Unit Tests.md",
     "README.md",
+    "Code Quality/Slideshow/3. Documentations.md",
     "Code Quality/Slideshow/2. Test Driven Development (TDD).md",
+    "Code Quality/Slideshow/1. Understanding and Writing Unit Tests.md",
+    "7377C000",
+    "7217C000",
+    "9476C000",
+    "F055C000",
+    "C2D4C000",
+    "~$CV de compétences.xlsx",
+    "CV de compétences.xlsx",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -269,13 +311,6 @@
     "export/Flutter.zip",
     "export/1. Flutter overview.zip",
     "export/index.html",
-    "export/3. State managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
-    "export/3. State managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
-    "export/3. State managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
-    "export/3. State managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
-    "export/3. State managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
-    "export/3. State managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
-    "export/3. State managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff",
     "export/3. State managment/plugin/chalkboard/img/whiteboard.png",
     "export/3. State managment/plugin/chalkboard/img/sponge.png",
     "export/3. State managment/plugin/chalkboard/img/chalk-yellow.png",
